@@ -1,0 +1,44 @@
+{
+	"name": "noxie",
+	"title": "Noxie",
+	"description": "A web development starter kit",
+	"version": "1.1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/noxie/noxie.git"
+	},
+	"author": {
+		"name": "Noxie",
+		"url": "http://www.noxie.it"
+	},
+	"contributors": [
+		{
+			"name": "Fabio Quarantini",
+			"web": "http://www.fabioquarantini.com"
+		},
+		{
+			"name": "Daniel Duches",
+			"web": "http://www.danielduches.it"
+		}
+	],
+	"licenses": {
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/MIT"
+	},
+	"devDependencies": {
+		"browser-sync": "^2.7.2",
+		"gulp": "^3.8.11",
+		"gulp-autoprefixer": "^2.3.0",
+		"gulp-concat": "^2.5.2",
+		"gulp-imagemin": "^2.2.1",
+		"gulp-filter": "^2.0.2",
+		"gulp-jshint": "^1.10.0",
+		"gulp-minify-css": "^1.1.1",
+		"gulp-notify": "^2.2.0",
+		"gulp-plumber": "^1.0.1",
+		"gulp-ruby-sass": "^1.0.5",
+		"gulp-sourcemaps": "^1.5.2",
+		"gulp-uglify": "^1.2.0",
+		"jshint-stylish": "~1.0.2"
+	}
+}

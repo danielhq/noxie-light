@@ -1,0 +1,25 @@
+{
+  "name": "noxie-light",
+  "version": "1.0.0",
+  "homepage": "http://www.noxie.io",
+  "authors": [
+    "Fabio Quarantini",
+    "Daniel Duches"
+  ],
+  "description": "A Lighter version of Noxie",
+  "keywords": [
+    "gulp",
+    "sass",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "fastclick" : "*",
+    "picturefill": "*",
+    "emmet-classes": "*"
+  }
+}

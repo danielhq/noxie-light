@@ -1,0 +1,9 @@
+[submodule "scss/helpers/emmet-classes"]
+	path = scss/helpers/emmet-classes
+	url = https://github.com/danielhq/emmet-classes
+[submodule "js/picturefill"]
+	path = js/picturefill
+	url = https://github.com/scottjehl/picturefill.git
+[submodule "js/fastclick"]
+	path = js/fastclick
+	url = https://github.com/ftlabs/fastclick.git
